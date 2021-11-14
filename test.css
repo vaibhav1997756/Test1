@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://media.istockphoto.com/photos/register-online-picture-id869283118?k=20&m=869283118&s=612x612&w=0&h=ZEhY5KN0xLVmDQ4qazg9p9AFO9xkYr1RjRA2_80Hhm0=);
+}
+
+div {
+    background-color: rgba(58, 55, 54, 0.87);
+    margin: 300px;
+    text-align: center;
+}
+
+h3 {
+    color: crimson;
+    font-family: fantasy;
+}
+
+button {
+    background-color: rgba(223, 220, 24, 0.925);
+    font-family: cursive;
+}
+
+label {
+    color: rgb(184, 32, 184);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
